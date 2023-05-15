@@ -1,7 +1,7 @@
-PWD c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion
+PWD c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF
 INPUT C:\Users\siles\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\charter.tex
-OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.log
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\charter.tex
+OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.log
 INPUT .\charter.cls
 INPUT .\charter.cls
 INPUT charter.cls
@@ -1118,10 +1118,10 @@ INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titletoc.s
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titletoc.sty
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titletoc.sty
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titletoc.sty
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.aux
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.aux
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.aux
-OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.aux
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.aux
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.aux
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.aux
+OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.aux
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -1153,18 +1153,18 @@ INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.s
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.pdf
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.pdf
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
 INPUT .\Figuras\logoFIUBA.pdf
 INPUT .\Figuras\logoFIUBA.pdf
 INPUT Figuras\logoFIUBA.pdf
@@ -1178,12 +1178,12 @@ INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tf
 INPUT C:\Users\siles\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.toc
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.toc
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.toc
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.toc
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.toc
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.toc
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
-OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.toc
+OUTPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.toc
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
@@ -1285,9 +1285,9 @@ INPUT .\Figuras\logoFIUBA.pdf
 INPUT .\Figuras\logoFIUBA.pdf
 INPUT Figuras\logoFIUBA.pdf
 INPUT .\Figuras\logoFIUBA.pdf
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.aux
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
-INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\Plantilla-planificacion\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.aux
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
+INPUT c:\Users\siles\OneDrive\Escritorio\Curso y mas\Posgrado\git GP\FIUBA-TPF\build\charter.out
 INPUT C:\Users\siles\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\siles\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\siles\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb

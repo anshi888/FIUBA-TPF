@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1684129394 "c:/Users/siles/OneDrive/Escritorio/Curso y mas/Posgrado/Plantilla-planificacion/charter.tex" "build/charter.pdf" "charter" 1684129397 0
+["pdflatex"] 1684129858 "c:/Users/siles/OneDrive/Escritorio/Curso y mas/Posgrado/git GP/FIUBA-TPF/charter.tex" "build/charter.pdf" "charter" 1684129861 0
   "C:/Users/siles/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1684104465 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/siles/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1684103332 12668 f3db6f48916d861f132fb04c5ef4cf03 ""
   "C:/Users/siles/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1682800644 23178960 1cc84a04fde82aea8954856fe71cb6ff ""
@@ -201,16 +201,16 @@
   "C:/Users/siles/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1667242266 7147 be6981d9f5d866a5634048c4a11814a9 ""
   "C:/Users/siles/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/siles/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Figuras/AoN.png" 1683071036 79858 1946e1344054ce427c1220770075067b ""
-  "Figuras/Gantt-2.png" 1683071036 77170 42b0485bb458c651e282ad150b9ab328 ""
-  "Figuras/diagramaenbloque.png" 1684108780 12934 e5b26d6935a9c0a5a2e7ee5970e6d38e ""
-  "Figuras/logoFIUBA.pdf" 1683071036 398649 d6a47cd9c1da8276651fee1a0adb7a3c ""
-  "build/charter.aux" 1684129396 5308 015491153cf82b372bf6c7a76ed9ad4a "pdflatex"
-  "build/charter.out" 1684129396 3423 e0d307c6b1b1595ccf1787452af78626 "pdflatex"
-  "build/charter.toc" 1684129396 1390 d835eb37472975fdd9991e82f198be5c "pdflatex"
-  "c:/Users/siles/OneDrive/Escritorio/Curso y mas/Posgrado/Plantilla-planificacion/charter.tex" 1684129392 25818 492563362926cacf4ce555b2b8fdf528 ""
-  "charter.cls" 1684104534 8188 5267529be3cf310291d63636cf5e41b4 ""
-  "charter.tex" 1684129392 25818 492563362926cacf4ce555b2b8fdf528 ""
+  "Figuras/AoN.png" 1684129755 79858 1946e1344054ce427c1220770075067b ""
+  "Figuras/Gantt-2.png" 1684129755 77170 42b0485bb458c651e282ad150b9ab328 ""
+  "Figuras/diagramaenbloque.png" 1684129755 12934 e5b26d6935a9c0a5a2e7ee5970e6d38e ""
+  "Figuras/logoFIUBA.pdf" 1684129755 398649 d6a47cd9c1da8276651fee1a0adb7a3c ""
+  "build/charter.aux" 1684129861 5308 015491153cf82b372bf6c7a76ed9ad4a "pdflatex"
+  "build/charter.out" 1684129861 3423 e0d307c6b1b1595ccf1787452af78626 "pdflatex"
+  "build/charter.toc" 1684129861 1390 d835eb37472975fdd9991e82f198be5c "pdflatex"
+  "c:/Users/siles/OneDrive/Escritorio/Curso y mas/Posgrado/git GP/FIUBA-TPF/charter.tex" 1684129857 25831 cd8c2e9a1ff1efc38662d33ace29ffba ""
+  "charter.cls" 1684129755 8188 5267529be3cf310291d63636cf5e41b4 ""
+  "charter.tex" 1684129857 25831 cd8c2e9a1ff1efc38662d33ace29ffba ""
   (generated)
   "build/charter.aux"
   "build/charter.log"
